@@ -12,8 +12,8 @@ This Flutter app tracks the user's live location and summarizes time spent in pr
   - "Traveling" state outside any zone
 - Daily summary screen with persistent history (via Hive)
 - Export data as:
-  - 📄 CSV
-  - 📄 JSON
+  - CSV
+  - JSON
 - Manage custom geo-fences with live location capture
 
 ## Dependencies
